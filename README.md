@@ -4,9 +4,9 @@ Repository containing the code for my Master's thesis -  It’s a TAD Complicate
 Code is not from a professional coder, but it gets the job done on what was needed for the data at the time. 
 Thesis Committee/supervisors:
 
-Kimberly J. Bussey, Ph.D.
-Michelle Mancenido
-Sreethan Kanthaswamy
+Kimberly J. Bussey, Ph.D.,
+Michelle Mancenido,
+Sreethan Kanthaswamy,
 
 The data from the thesis contains resources/information from websites such as:
 
